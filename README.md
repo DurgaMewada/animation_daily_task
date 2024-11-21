@@ -10,12 +10,7 @@ An interactive Flutter app that combines the **AnimatedContainer** and **Draggab
 - Smooth animations for user feedback.
 
 ## video🎥
-
-
 https://github.com/user-attachments/assets/dd80f1f8-26ad-4e68-b2d4-866e1ea382c6
-
-
-
 
 # Flutter AnimatedAlign with AnimatedContainer
 
@@ -28,10 +23,13 @@ A Flutter app demonstrating animations using **AnimatedAlign** and **AnimatedCon
 - **Interactive Animation**: User-triggered animations through a button press.
 
 ## Video 🎥
-
-
 https://github.com/user-attachments/assets/96a3edee-34ab-41b8-9674-aedad77c1097
 
+## Hero Widget in Flutter
+The *Hero widget* in Flutter is used to create a seamless transition between two screens. It enables a shared element animation, allowing an image or widget to animate smoothly from one screen to another. By using the same Hero tag in two different widgets, Flutter automatically handles the transition animation. This provides a visually appealing user experience when navigating between pages.
+
+## Video 🎥
+https://github.com/user-attachments/assets/84a7f06b-2cde-4fc7-90e6-f8a989bcf198
 
 
 
