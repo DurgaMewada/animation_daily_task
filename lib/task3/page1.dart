@@ -37,8 +37,8 @@ class _HeroWidgetState extends State<HeroWidget> {
                     width: 200,
                     height: 250,
                     decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(20),
-                      color: Colors.red
+                        borderRadius: BorderRadius.circular(20),
+                        color: Colors.red
                     ),
                   ),
                 ),
